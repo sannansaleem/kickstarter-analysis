@@ -25,8 +25,9 @@ maybe causal die to the effect of a more pleasant climate, we cannot assume so a
 link might also exist since the spring/summer months indicated a general higher average of 
 hosted events.
 
+![](resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-
+![](resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
