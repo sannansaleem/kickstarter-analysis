@@ -21,16 +21,25 @@ user friendly format that is easy for the customer (louise) to extract informati
 ### Analysis of Outcomes Based on Goals
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An analysis of outcomes based on goals was charted using a line graph (as seen below) and examined to reveal a couple interesting facts:
 
-(1) the lower the target goal the higher the chance of success 
+1. the lower the target goal the higher the chance of success 
 
-(2)as target goals increased the chances of faliure did too indicating an inverse relationship between the two 
+2. as target goals increased the chances of faliure did too indicating an inverse relationship between the two
+ 
+3. chances of faliure and success coincided at 3 distinct points implying a 50% likelihood of eaither faliure or success
 
-(3) chances of faliure and success coincided at 3 distinct points implying a 50% likelihood of eaither faliure or success
+4. Interestingly enough there was a far higher chance of success when fundraising for a kickstarter in the range of $35,000-$44,999 as compared to faliure though the total number of projects sampled in that range were quite minimal and so this sample subset examined may not be accurately indicative of what may actually happen if applied to the population should everyone start fundraising with that goal in mind.
 
-(4) Interestingly enough there was a far higher chance of success when fundraising for a kickstarter in the range of $35,000-$44,999 as compared to faliure though the total number of projects sampled in that range were quite minimal and so this sample subset examined may not be accurately indicative of what may actually happen if applied to the population should everyone start fundraising with that goal in mind.
 ![](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most of the formulae and scripting used within this projeect were items that ive had a great deal of personal experience in, thoughh im able to understand how some of my peers had troubles in the follwing:
+- typing/using the correct forlumae in order to acheive desired goals whether it be the function use itself or the syntax of the formula
+- Not fixing reference tables and recieving #N/A result errors
+- pivot tables not being assigned their correct headers/values 
+
+Personally two "errors" I encountered were with regards to the Vlookup function as well as nested if furmulas:
+- When using Vlookup/nested "if"/COUNTIFS to fill in subcategory statistics as well as relavent feilds within the master data set and Ouctomes based on Goals sheet, unfamiliarity of the sytax in which it should have been written led me through a couple iterations of troubleshooting
+
 
 ## Results
 
