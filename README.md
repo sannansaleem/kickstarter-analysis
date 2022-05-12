@@ -14,8 +14,11 @@ user friendly format that is easy for the customer (louise) to extract informati
 ### Analysis of Outcomes Based on Launch Date
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   1. Firstly, the Kickstarter dataset needed to be further organized. By creating a “Years” column and extracting its data from the "Date_created" which in turm was derived from the "launched_at" column that had to be converted from Unix format to a readable date, providing further clarity into the individual campaings' launch date
+   2. Next, a pivot table was created utilizing the entire data set. Filtering by “parent category” and “years”, rows to represent “date_created" and populating the columns and values alike with “outcomes”.
+   3. The pivot chart was then ammended to discard the outcomes of all current live campaigns, and filtered to show data feilds pertaining solely to "theaters" and lastly altered to disply the information monthly instead of quarterly.
+   4. Finally, after the data was sorted, a line graph was made use of to visualize the data from the created pivot table, so that the relationship between theater campaign outcomes based on their launch month could be presented and understood at a glance.
 
-An analysis of outcomes as determined relative to the theatres launch date revealed that there was a relatively low likelihood of cancellation thorough out the year (as depicted by the yellow line at the bottom of the graph). Examination of the blue and red line graphs (indicating chances of success and failure respectively) appeared to move together with the highest chnace of success compared to failure seeming to be present during the spring/summer months. While this relationship maybe causal due to the effect of a more pleasant climate, we cannot assume so as a correlative link might also exist since the spring/summer months indicated a general higher average of hosted events and so inherently presents with a higer average of successful/failed outcomes.
 
 ![](resources/Theater_Outcomes_vs_Launch.png)
 
