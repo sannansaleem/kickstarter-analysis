@@ -56,3 +56,5 @@ Personally two "errors" I encountered were with regards to the Vlookup function 
   
 - What are some other possible tables and/or graphs that we could create?
   - A boxplot would be good in order to see any outliers in the data set so that they maybe ommitted when making our final conclusions
+  - Outcomes by country could be an alternative table that maybe used for kickstartes that are region specific 
+  - Outcomes in relation to number of backers (i.e. a greater number of backers would likely imply a greter chance of success) 
