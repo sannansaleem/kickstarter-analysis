@@ -44,9 +44,15 @@ Personally two "errors" I encountered were with regards to the Vlookup function 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+  1. Hosting fundraisers during the spring summer months has a higher likelihood of success
+  2. 
 
 - What can you conclude about the Outcomes based on Goals?
+  1. Should the goal of the fundraiser be higher than average the highest liklihood of success lies in the range of $35,000-$44,999
+  2. the higher the goal the lower the likihood of success
 
 - What are some limitations of this dataset?
-
+  - not enough data points amongst higher set goals to be able to apply what we see in this data set to the greater population 
+  
 - What are some other possible tables and/or graphs that we could create?
+  - A boxplot would be good in order to see any outliers in the data set so that they maybe ommitted when making our final conclusions
